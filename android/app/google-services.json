@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "149325868154",
+    "project_id": "learning-dart-firebase-project",
+    "storage_bucket": "learning-dart-firebase-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149325868154:android:f88018cb043d477e28dfc3",
+        "android_client_info": {
+          "package_name": "com.example.learning_dart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149325868154-gtunraqbhgsosktp2g689u71h9m5lpdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf6coEQ9f5A8hKTCeX_hMI6QGWjH2ZHoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149325868154-gtunraqbhgsosktp2g689u71h9m5lpdp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149325868154-0bkkesg923gae5irhobatp5ojlcdc1o7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.learningDart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
